@@ -9,7 +9,7 @@ This simple script
 
 After you have saved the file with name "simple.c" you type in the shell command
 
-g++ simlple.c -o simlpe
+g++ simple.c -o simple
 
 this tells the c comliler to compile your sourcecodefile named simple.c to the executable file "simple", wich can be executed wit the command
 
